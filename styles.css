@@ -1,1 +1,27 @@
 /*  your css code here. If applicable */
+#page{
+	width: 500px;
+	height:300px;
+	background-color: gray;
+	display:flex;
+	align-items:center;
+	justify-content:center;
+}
+#color1{
+		width: 100px;
+	height: 50px;
+	background-color: red;
+}
+#color2{
+	width: 100px;
+	height: 50px;
+	background-color: yellow;
+}
+	#color3{
+		width: 100px;
+	height: 50px;
+	background-color: green;
+	}
+
+
+
